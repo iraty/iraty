@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Irati 👋
 
 <!--
 **iraty/iraty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I’m currently working on cibersecurity.
+- I'm currently studying Computer Science.
+
+🖥️ Just a girl who loves coding 💻
